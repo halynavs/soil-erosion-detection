@@ -59,4 +59,4 @@ the arcgis.learn module (in ArcGIS API for Python) can be used for solving probl
   [sourse](https://www.semanticscholar.org/paper/Machine-learning-based-soil-erosion-susceptibility-Vu-Tran/145583426be065fe9e859d7cea8030c54adade1d)
 
 # After small research became obvious that Mask R-CNN spreedly used. But there are a lot off specific approaches to take into account.
-For building and testing first model is needed one more week. 
+For building and testing first model is needed one more week. (by circumstances had 2 days on this task)
